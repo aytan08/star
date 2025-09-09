@@ -1,0 +1,14 @@
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.AssemblyInfoInputs.cache
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.AssemblyInfo.cs
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.csproj.CoreCompileInputs.cache
+D:\My Files\Desktop\star\star\star\bin\Debug\net8.0\star.exe
+D:\My Files\Desktop\star\star\star\bin\Debug\net8.0\star.deps.json
+D:\My Files\Desktop\star\star\star\bin\Debug\net8.0\star.runtimeconfig.json
+D:\My Files\Desktop\star\star\star\bin\Debug\net8.0\star.dll
+D:\My Files\Desktop\star\star\star\bin\Debug\net8.0\star.pdb
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.dll
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\refint\star.dll
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.pdb
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\star.genruntimeconfig.cache
+D:\My Files\Desktop\star\star\star\obj\Debug\net8.0\ref\star.dll
